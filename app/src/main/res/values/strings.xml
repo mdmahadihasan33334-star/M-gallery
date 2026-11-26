@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">M Gallery</string>
+    <string name="nav_photos">Photos</string>
+    <string name="nav_albums">Albums</string>
+    <string name="nav_vault">Vault</string>
+    <string name="nav_settings">Settings</string>
+    <string name="tab_all">All</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_videos">Videos</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_share">Share</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_move_to_vault">Move to Vault</string>
+    <string name="action_add_to_album">Add to Album</string>
+    <string name="action_restore">Restore</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_open_settings">Open Settings</string>
+    <string name="permission_title">Access Your Media</string>
+    <string name="permission_description">M Gallery indexes photos and videos stored on your device completely offline. Grant full library access, select specific items, or browse anytime with the system Photo Picker.</string>
+    <string name="empty_gallery_title">No media found</string>
+    <string name="empty_gallery_subtitle">Capture a photo, grant library access, or import items via the system Photo Picker.</string>
+    <string name="vault_locked_title">Private Vault</string>
+    <string name="vault_locked_subtitle">Enter your PIN or use biometrics to unlock encrypted photos and videos.</string>
+    <string name="recycle_bin_title">Recycle Bin</string>
+    <string name="smart_tools_title">Smart Insights</string>
+    <string name="photo_editor_title">Photo Editor</string>
+    <string name="about_privacy_note">M Gallery processes all photos, edits, similarity scans, and AES-GCM vault encryption strictly on your device with zero cloud uploads or analytics.</string>
+</resources>

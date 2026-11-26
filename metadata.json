@@ -1,0 +1,6 @@
+{
+  "name": "M Gallery",
+  "description": "Premium Android photo and video gallery with smart organization, built-in photo editor, Media3 video player, recycle bin, and encrypted private vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
